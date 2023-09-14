@@ -6,7 +6,7 @@ Experience unparalleled calculation speed and user-friendliness with this cuttin
 
 ## User Interface
 
-<img width="256" alt="calculator" src="https://github.com/robertovicario/Calculator/doc/img/calculator.png">
+<img width="256" alt="calculator" src="https://github.com/robertovicario/Calculator/blob/c3875bcbd282bf86c2eb217471b0b8e7aaa2d23e/doc/img/calculator.png">
 
 ## Instructions
 
